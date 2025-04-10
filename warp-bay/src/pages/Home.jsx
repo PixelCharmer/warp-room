@@ -35,7 +35,7 @@ const Home = () => {
                         cursor: 'pointer',
                     }}
                 >
-                    🚀 Activate Warp Drive Code: WARP-2840
+                    🚀 Activate Warp Drive Code: 2840 WARP NOW 🚀
                 </button>
             )}
         </div>

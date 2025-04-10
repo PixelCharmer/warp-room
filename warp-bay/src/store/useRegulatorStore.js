@@ -1,6 +1,6 @@
 import { create } from 'zustand';
 
-const TARGET_VALUES = [16, 36, 73];
+const TARGET_VALUES = [39, 15, 82];
 
 const useRegulatorStore = create((set, get) => ({
     pressures: [82, 69, 27],
